@@ -52,7 +52,7 @@ header nav ul li a:hover{
     color: black;
 }
 .btn{
-    display: inline;
+    display: block;
     /* width: 35%;
     height: 40px; */
     /* background-color:#fff; */
