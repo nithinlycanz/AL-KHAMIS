@@ -9,8 +9,8 @@ body{
 header{
     background-color: #1428a0;
     color: white;
-    height: 80px;
-    width: 99vw;
+    height: 5rem;
+    width: 80rem;
     line-height: 80px;
     box-shadow: 0 5px 15px grey;
     /* max-width: 1300px; */
@@ -83,8 +83,8 @@ header nav ul li a:hover{
 }
 .banner{
     background: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.2)),url(https://static.wixstatic.com/media/11062b_1ca0162aa6ee4d589a779cb574990aa2~mv2.jpg/v1/fill/w_852,h_492,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Building%20Facade.jpg);
-    height: 90vh;
-    width: 100vw;
+    height: 50rem;
+    width: 80rem;
     background-size: cover;
 }
 .banner-contents{
