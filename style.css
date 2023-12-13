@@ -59,8 +59,10 @@ header nav ul li a:hover{
     /* display: block; */
     /* margin:750px; */
     float: right;
-    margin-top: -16em;
-    margin-right: 14vw;
+    position: absolute;
+    bottom: 10px;
+    top: 270px;
+    left: 750px;
     /* padding: 5px; */
     text-align: center;
     /* font-size: 1.15rem; */
