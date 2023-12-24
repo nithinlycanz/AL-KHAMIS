@@ -303,14 +303,14 @@ a:focus {
 }
 
 .carousel .carousel-caption p {
-    color: #000000;
+    color: #FFFFFF;
     font-size: 30px;
     margin-bottom: 15px;
     letter-spacing: 1px;
 }
 
 .carousel .carousel-caption h1 {
-    color: #000000;
+    color: #FFFFFF;
     font-size: 60px;
     font-weight: 700;
     margin-bottom: 35px;
@@ -322,7 +322,7 @@ a:focus {
     font-weight: 500;
     letter-spacing: 1px;
     text-transform: uppercase;
-    color: #000000;
+    color: #FFFFFF;
     background: transparent;
     border: 2px solid #000000;
     border-radius: 0;
@@ -688,7 +688,7 @@ a:focus {
 
 .service .service-overlay p {
     margin: 0;
-    color: #000000;
+    color: #FFFFFF;
 }
 
 .service .service-text {
@@ -1617,7 +1617,7 @@ a:focus {
     font-size: 14px;
     font-weight: 500;
     text-transform: uppercase;
-    color: #030f27;
+    color: #ffffff;
     background: #121518;
     border-radius: 0;
     border: 2px solid #030f27;
@@ -1625,7 +1625,7 @@ a:focus {
 }
 
 .footer .newsletter .btn:hover {
-    color: #121518;
+    color: #ffffff;
     background: #030f27;
 }
 
