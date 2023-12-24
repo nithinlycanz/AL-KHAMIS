@@ -777,7 +777,7 @@ a:focus {
 }
 
 .team .team-item:hover .team-text {
-    background: #030f27;
+    background: #ffffff;
 }
 
 .team .team-item:hover .team-text h2 {
@@ -804,7 +804,7 @@ a:focus {
     align-items: center;
     justify-content: center;
     font-size: 18px;
-    color: #000000;
+    color: #ffffff;
 }
 
 .team .team-item:hover .team-social a:first-child {
