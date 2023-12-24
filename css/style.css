@@ -1327,7 +1327,7 @@ a:focus {
 
 .portfolio .portfolio-overlay p {
     margin: 0;
-    color: #000000;
+    color: #ffffff;
 }
 
 .portfolio .portfolio-text {
@@ -1470,16 +1470,16 @@ a:focus {
 }
 
 .contact .contact-form .form-control::placeholder {
-  color: #000000;
+  color: #ffffff;
   opacity: 1;
 }
 
 .contact .contact-form .form-control::-ms-input-placeholder {
-  color: #000000;
+  color: #ffffff;
 }
 
 .contact .contact-form .form-control::-ms-input-placeholder {
-  color: #000000;
+  color: #ffffff;
 }
 
 .contact .contact-form .btn {
